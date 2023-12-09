@@ -2,12 +2,12 @@ owner: sonyakun
 repo: bc-status
 
 sites:
-  - name: BedrockConnect
+  - name: FriendConnect
     url: http://bcstat.sonyakun.com:50212
 
 status-website:
   baseUrl: /bc-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: sonyakun-Hosted FriendConnect Instance status
+  name: sHFI status
   introTitle: 
   introMessage: 
