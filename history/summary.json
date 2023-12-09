@@ -1,20 +1,20 @@
 [
   {
-    "name": "BedrockConnect",
+    "name": "FriendConnect",
     "url": "http://bcstat.sonyakun.com:50212",
     "icon": "https://icons.duckduckgo.com/ip3/bcstat.sonyakun.com.ico",
-    "slug": "bedrock-connect",
+    "slug": "friend-connect",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 412,
-    "timeWeek": 412,
-    "timeMonth": 412,
-    "timeYear": 412,
+    "time": 268,
+    "timeDay": 268,
+    "timeWeek": 268,
+    "timeMonth": 268,
+    "timeYear": 268,
     "dailyMinutesDown": {}
   }
 ]
