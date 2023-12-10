@@ -4,19 +4,19 @@
     "url": "http://bcstat.sonyakun.com:50212",
     "icon": "https://icons.duckduckgo.com/ip3/bcstat.sonyakun.com.ico",
     "slug": "friend-connect",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 373,
-    "timeDay": 373,
-    "timeWeek": 373,
-    "timeMonth": 373,
-    "timeYear": 373,
+    "status": "up",
+    "uptime": "96.30%",
+    "uptimeDay": "96.30%",
+    "uptimeWeek": "96.30%",
+    "uptimeMonth": "96.30%",
+    "uptimeYear": "96.30%",
+    "time": 399,
+    "timeDay": 399,
+    "timeWeek": 399,
+    "timeMonth": 399,
+    "timeYear": 399,
     "dailyMinutesDown": {
-      "2023-12-10": 0
+      "2023-12-10": 39
     }
   }
 ]
