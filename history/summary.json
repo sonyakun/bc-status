@@ -4,7 +4,7 @@
     "url": "http://bcstat.sonyakun.com:50212",
     "icon": "https://icons.duckduckgo.com/ip3/bcstat.sonyakun.com.ico",
     "slug": "friend-connect",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 373,
     "timeMonth": 373,
     "timeYear": 373,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-10": 0
+    }
   }
 ]
